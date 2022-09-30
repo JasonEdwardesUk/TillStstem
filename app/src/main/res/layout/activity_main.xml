@@ -13,6 +13,7 @@
         android:layout_height="0dp"
         android:layout_weight="2">
 
+
     </LinearLayout>
     <LinearLayout
         android:orientation="horizontal"
@@ -20,13 +21,20 @@
         android:layout_height="0dp"
         android:layout_weight="1">
 
-        <Button style="@style/btn_main" />
-        <Button style="@style/btn_main" />
-        <Button style="@style/btn_main" />
-        <Button style="@style/btn_main" />
-        <Button style="@style/btn_main" />
-        <Button style="@style/btn_main" />
-        <Button style="@style/btn_main" />
+        <Button style="@style/btn_main"
+            android:id="@+id/btna1"/>
+        <Button style="@style/btn_main"
+            android:id="@+id/btna2"/>
+        <Button style="@style/btn_main"
+            android:id="@+id/btna3"/>
+        <Button style="@style/btn_main"
+            android:id="@+id/btna4" />
+        <Button style="@style/btn_main"
+            android:id="@+id/btna6" />
+        <Button style="@style/btn_main"
+            android:id="@+id/btna7" />
+        <Button style="@style/btn_main"
+            android:id="@+id/btna8" />
     </LinearLayout>
     <LinearLayout
         android:orientation="horizontal"
@@ -34,13 +42,20 @@
         android:layout_height="0dp"
         android:layout_weight="1">
 
-        <Button style="@style/btn_main" />
-        <Button style="@style/btn_main" />
-        <Button style="@style/btn_main" />
-        <Button style="@style/btn_main" />
-        <Button style="@style/btn_main" />
-        <Button style="@style/btn_main" />
-        <Button style="@style/btn_main" />
+        <Button style="@style/btn_main"
+            android:id="@+id/btnb1"/>
+        <Button style="@style/btn_main"
+            android:id="@+id/btnb2"/>
+        <Button style="@style/btn_main"
+            android:id="@+id/btnb3"/>
+        <Button style="@style/btn_main"
+            android:id="@+id/btnb4" />
+        <Button style="@style/btn_main"
+            android:id="@+id/btnb6" />
+        <Button style="@style/btn_main"
+            android:id="@+id/btnb7" />
+        <Button style="@style/btn_main"
+            android:id="@+id/btnb8" />
     </LinearLayout>
     <LinearLayout
         android:orientation="horizontal"
@@ -48,13 +63,20 @@
         android:layout_height="0dp"
         android:layout_weight="1">
 
-        <Button style="@style/btn_main" />
-        <Button style="@style/btn_main" />
-        <Button style="@style/btn_main" />
-        <Button style="@style/btn_main" />
-        <Button style="@style/btn_main" />
-        <Button style="@style/btn_main" />
-        <Button style="@style/btn_main" />
+        <Button style="@style/btn_main"
+            android:id="@+id/btnc1"/>
+        <Button style="@style/btn_main"
+            android:id="@+id/btnc2"/>
+        <Button style="@style/btn_main"
+            android:id="@+id/btnc3"/>
+        <Button style="@style/btn_main"
+            android:id="@+id/btnc4" />
+        <Button style="@style/btn_main"
+            android:id="@+id/btnc6" />
+        <Button style="@style/btn_main"
+            android:id="@+id/btnc7" />
+        <Button style="@style/btn_main"
+            android:id="@+id/btnc8" />
     </LinearLayout>
     <LinearLayout
         android:orientation="horizontal"
@@ -62,13 +84,40 @@
         android:layout_height="0dp"
         android:layout_weight="1">
 
-        <Button style="@style/btn_main" />
-        <Button style="@style/btn_main" />
-        <Button style="@style/btn_main" />
-        <Button style="@style/btn_main" />
-        <Button style="@style/btn_main" />
-        <Button style="@style/btn_main" />
-        <Button style="@style/btn_main" />
+        <Button style="@style/btn_main"
+            android:id="@+id/btnd1"/>
+        <Button style="@style/btn_main"
+            android:id="@+id/btnd2"/>
+        <Button style="@style/btn_main"
+            android:id="@+id/btnd3"/>
+        <Button style="@style/btn_main"
+            android:id="@+id/btnd4" />
+        <Button style="@style/btn_main"
+            android:id="@+id/btnd6" />
+        <Button style="@style/btn_main"
+            android:id="@+id/btnd7" />
+        <Button style="@style/btn_main"
+            android:id="@+id/btnd8" />
+    </LinearLayout>
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+        <Button style="@style/btn_main"
+            android:id="@+id/btne1"/>
+        <Button style="@style/btn_main"
+            android:id="@+id/btne2"/>
+        <Button style="@style/btn_main"
+            android:id="@+id/btne3"/>
+        <Button style="@style/btn_main"
+            android:id="@+id/btne4" />
+        <Button style="@style/btn_main"
+            android:id="@+id/btne6" />
+        <Button style="@style/btn_main"
+            android:id="@+id/btne7" />
+        <Button style="@style/btn_main"
+            android:id="@+id/btne8" />
     </LinearLayout>
     <LinearLayout
         android:orientation="horizontal"
@@ -76,27 +125,20 @@
         android:layout_height="0dp"
         android:layout_weight="1">
 
-        <Button style="@style/btn_main" />
-        <Button style="@style/btn_main" />
-        <Button style="@style/btn_main" />
-        <Button style="@style/btn_main" />
-        <Button style="@style/btn_main" />
-        <Button style="@style/btn_main" />
-        <Button style="@style/btn_main" />
-    </LinearLayout>
-    <LinearLayout
-        android:orientation="horizontal"
-        android:layout_width="match_parent"
-        android:layout_height="0dp"
-        android:layout_weight="1">
-
-        <Button style="@style/btn_main" />
-        <Button style="@style/btn_main" />
-        <Button style="@style/btn_main" />
-        <Button style="@style/btn_main" />
-        <Button style="@style/btn_main" />
-        <Button style="@style/btn_main" />
-        <Button style="@style/btn_main" />
+        <Button style="@style/btn_main"
+            android:id="@+id/btnf1"/>
+        <Button style="@style/btn_main"
+            android:id="@+id/btnf2"/>
+        <Button style="@style/btn_main"
+            android:id="@+id/btnf3"/>
+        <Button style="@style/btn_main"
+            android:id="@+id/btnf4" />
+        <Button style="@style/btn_main"
+            android:id="@+id/btnf6" />
+        <Button style="@style/btn_main"
+            android:id="@+id/btnf7" />
+        <Button style="@style/btn_main"
+            android:id="@+id/btnf8" />
     </LinearLayout>
 
     <LinearLayout
@@ -105,15 +147,20 @@
         android:layout_height="0dp"
         android:layout_weight="2">
 
-        <Button style="@style/btn_base" />
-        <Button style="@style/btn_base" />
-        <Button style="@style/btn_base" />
-        <Button style="@style/btn_base" />
-        <Button style="@style/btn_base" />
-        <Button style="@style/btn_base" />
-
-
-
+        <Button style="@style/btn_main"
+            android:id="@+id/btng1"/>
+        <Button style="@style/btn_main"
+            android:id="@+id/btng2"/>
+        <Button style="@style/btn_main"
+            android:id="@+id/btng3"/>
+        <Button style="@style/btn_main"
+            android:id="@+id/btng4" />
+        <Button style="@style/btn_main"
+            android:id="@+id/btng6" />
+        <Button style="@style/btn_main"
+            android:id="@+id/btng7" />
+        <Button style="@style/btn_main"
+            android:id="@+id/btng8" />
 
 
     </LinearLayout>
